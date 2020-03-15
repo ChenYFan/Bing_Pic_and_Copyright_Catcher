@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!--
-头像镇体！避免Bug！防止Bug的最好办法就是面对Bug！
-                                                                                                                                                                                                                                                                                                                                                                                ,/@@@@@@@@@@@@@@@@\]]`                                                                                                                                                                                                                                                                                                                                                                                                                         
+头像镇压,保证无Bug:
+                                                                                                                                                                                                                                                                                                                                                                               ,/@@@@@@@@@@@@@@@@\]]`                                                                                                                                                                                                                                                                                                                                                                                                                         
                                                                                                                                                                                                                                                                                                                                     ]/ooo                                       O@@@@@@@@@@@@@@@@@@@@@@@@@@@O\]]`                                                                                                                                                                                                                                                                                                                                                                                                              
                                                                                                                                                                                                                                                                                                                               ,/OOOO[                                                          ,[[[\O@@@@@@@@@@@@@@@@@@@O]]`                                                                                                                                                                                                                                                                                                                                                                                                   
                                                                                                                                                                                                                                                                                                                         ]oO@@@@/[                                                                           [[\O@@@@@@@@@@@@@@@@@@@O\]                                                                                                                                                                                                                                                                                                                                                                                         
@@ -311,13 +311,18 @@
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ,@@@^        ,O@@\                                                                                                                       
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ,@@@`         ,\@O`                                                                                                                     
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          \OO            ,o                                                                                                                     
+
+
+
+
 -->
 <!--写在开头:如果要使用本代码,可以,但请不要把头像和版权信息去掉,谢谢!-->
+
 <html lang="zh" class="no-js">
 	<head>
 		<meta charset="UTF-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=width=device-width, user-scalable=no, initial-scale=1.1, maximum-scale=1.1, minimum-scale=1.0">
 		<title>每日Bing美图-缓存七天</title>
 		<link rel="stylesheet" type="text/css" href="css/normalize.css" />
 		<link rel="stylesheet" type="text/css" href="css/demo.css" />
@@ -372,8 +377,42 @@
 					</div>
 				</div><!-- /intro__content -->
 			</header><!-- /intro -->
-			<!--这个地方是点击下拉按钮展开的区域,我还没有想好做什么,可以添加广告-->
-<section class="items-wrap"><p>由CYF完成修改，转载一定要保留原先信息！</p></section>
+<section class="items-wrap"><!--<p>由CYF完成修改，转载一定要保留原先信息！</p>-->
+				<a href="#" class="item">
+					<img class="item__image" src="bing/bing.php" alt="item01"/>
+					<h2 class="item__title"><script src="bing/bingc.php"></script></h2>
+				</a>
+								<a href="#" class="item">
+					<img class="item__image" src="bing/2.php" alt="item02"/>
+					<h2 class="item__title"><script src="bing/2c.php"></script></h2>
+				</a>
+								<a href="#" class="item">
+					<img class="item__image" src="bing/3.php" alt="item03"/>
+					<h2 class="item__title"><script src="bing/3c.php"></script></h2>
+				</a>
+								<a href="#" class="item">
+					<img class="item__image" src="bing/4.php" alt="item04"/>
+					<h2 class="item__title"><script src="bing/4c.php"></script></h2>
+				</a>
+								<a href="#" class="item">
+					<img class="item__image" src="bing/5.php" alt="item05"/>
+					<h2 class="item__title"><script src="bing/5c.php"></script></h2>
+				</a>
+								<a href="#" class="item">
+					<img class="item__image" src="bing/6.php" alt="item06"/>
+					<h2 class="item__title"><script src="bing/6c.php"></script></h2>
+				</a>
+								<a href="#" class="item">
+					<img class="item__image" src="bing/7.php" alt="item07"/>
+					<h2 class="item__title"><script src="bing/7c.php"></script></h2>
+				</a>
+
+						<a href="#" class="item">
+					<img class="item__image" src="bing/8.php" alt="item08"/>
+					<h2 class="item__title"><script src="bing/8c.php"></script></h2>
+				</a>
+
+</section>
 		</div><!-- /container -->
 		<div id="container-2" class="container theme-2">
 			<header class="intro">
@@ -396,7 +435,7 @@
 					</div>
 				</div><!-- /intro__content -->
 			</header><!-- /intro -->
-	<section class="items-wrap"><p>由CYF完成修改，转载一定要保留原先信息！</p></section>
+	<section class="items-wrap"><!--<p>由CYF完成修改，转载一定要保留原先信息！</p>--></section>
 		</div><!-- /container -->
 		<div id="container-3" class="container">
 			<header class="intro">
@@ -420,13 +459,13 @@
 					</div>
 				</div><!-- /intro__content -->
 			</header><!-- /intro -->
-			<section class="items-wrap"><p>由CYF完成修改，转载一定要保留原先信息！</p></section>
+			<section class="items-wrap"><!--<p>由CYF完成修改，转载一定要保留原先信息！</p>--></section>
 				</div><!-- /container -->
 <div id="container-4" class="container">
 			<header class="intro">
 				<img class="intro__image" src="bing/4.php" alt="Glacier"/>
 				<div class="intro__content">
-					<h1 class="intro__title">4天前的Bing美图</h1>
+					<h1 class="intro__title">4天前</h1>
 					<div class="intro__subtitle">
 						<div class="intro__description">
 	<script src="bing/4c.php"></script>
@@ -442,13 +481,13 @@
 					</div>
 				</div><!-- /intro__content -->
 			</header><!-- /intro -->
-			<section class="items-wrap"><p>由CYF完成修改，转载一定要保留原先信息！</p></section>
+			<section class="items-wrap"><!--<p>由CYF完成修改，转载一定要保留原先信息！</p>--></section>
 				</div><!-- /container -->
 <div id="container-5" class="container">
 			<header class="intro">
 				<img class="intro__image" src="bing/5.php" alt="Glacier"/>
 				<div class="intro__content">
-					<h1 class="intro__title">5天前的Bing美图</h1>
+					<h1 class="intro__title">5天前</h1>
 					<div class="intro__subtitle">
 						<div class="intro__description">
 				<div class="intro__description">
@@ -465,13 +504,13 @@
 					</div>
 				</div><!-- /intro__content -->
 			</header><!-- /intro -->
-			<section class="items-wrap"><p>由CYF完成修改，转载一定要保留原先信息！</p></section>
+			<section class="items-wrap"><!--<p>由CYF完成修改，转载一定要保留原先信息！</p>--></section>
 				</div><!-- /container -->
 <div id="container-6" class="container">
 			<header class="intro">
 				<img class="intro__image" src="bing/6.php" alt="Glacier"/>
 				<div class="intro__content">
-					<h1 class="intro__title">6天前的Bing美图</h1>
+					<h1 class="intro__title">6天前</h1>
 					<div class="intro__subtitle">
 						<div class="intro__description">
 	<script src="bing/6c.php"></script>
@@ -486,14 +525,14 @@
 					</div>
 				</div><!-- /intro__content -->
 			</header><!-- /intro -->
-			<section class="items-wrap"><p>由CYF完成修改，转载一定要保留原先信息！</p></section>
+			<section class="items-wrap"><!--<p>由CYF完成修改，转载一定要保留原先信息！</p>--></section>
 				</div><!-- /container -->
 
 <div id="container-7" class="container">
 			<header class="intro">
 				<img class="intro__image" src="bing/7.php" alt="Glacier"/>
 				<div class="intro__content">
-					<h1 class="intro__title">7天前的Bing美图</h1>
+					<h1 class="intro__title">7天前</h1>
 					<div class="intro__subtitle">
 						<div class="intro__description">
 	<script src="bing/7c.php"></script>
@@ -509,13 +548,13 @@
 					</div>
 				</div><!-- /intro__content -->
 			</header><!-- /intro -->
-			<section class="items-wrap"><p>由CYF完成修改，转载一定要保留原先信息！</p></section>
+			<section class="items-wrap"><!--<p>由CYF完成修改，转载一定要保留原先信息！</p>--></section>
 				</div><!-- /container -->
 <div id="container-8" class="container">
 			<header class="intro">
 				<img class="intro__image" src="bing/8.php" alt="Glacier"/>
 				<div class="intro__content">
-					<h1 class="intro__title">8天前的Bing美图</h1>
+					<h1 class="intro__title">8天前</h1>
 					<div class="intro__subtitle">
 						<div class="intro__description">
 	<script src="bing/8c.php"></script>
@@ -530,7 +569,7 @@
 					</div>
 				</div><!-- /intro__content -->
 			</header><!-- /intro -->
-<section class="items-wrap"><p>由CYF完成修改，转载一定要保留原先信息！</p></section>
+<section class="items-wrap"><!--<p>由CYF完成修改，转载一定要保留原先信息！</p>--></section>
 		</div><!-- /container -->
 		<script src="js/classie.js"></script>
 		<script>
@@ -684,5 +723,3 @@
 		</script>
 	</body>
 </html>
-
-<!--写在结尾:各位大侠手下留情吧,本人并不是精通html和php的大佬,这个代码耗费了我5个小时才做好,我可不是肝帝,麻烦不要把版权信息去掉好不好啊啊┭┮﹏┭┮-->
