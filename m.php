@@ -7,7 +7,7 @@
 	<title>Bing美图移动版</title>
 	<link rel="stylesheet" type="text/css" href="css/normalize.css" />
 	<link rel="stylesheet" type="text/css" href="css/htmleaf-demo.css">
-	<link rel='stylesheet prefetch' href='http://fonts.googleapis.com/css?family=Open+Sans'>
+	<link rel='stylesheet prefetch' href='mcss.css'>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 
 	<!--[if IE]>
